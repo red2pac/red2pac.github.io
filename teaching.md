@@ -10,7 +10,7 @@ comments: false
 
 |           | **Current**                    |              | **Students** |
 |----|------|--------------------------------|--------------|--------------|
-|2020|Spring  | **<a href="http://sauleh.github.io/ad98/">Design and Analysis of Algorithms</a>** | [pdf](../static_files/students/ad98992.pdf) |
+|2020|Test  | **<a href="http://red2pac.github.io/ap98/">Design and Analysis of Algorithms</a>** | [pdf](../static_files/students/ad98992.pdf) |
 |----|------|--------------------------------|--------------|--------------|
 |2020|Spring  | **<a href="http://sauleh.github.io/ap98/">Advanced Programming</a>** |[pdf](../static_files/students/ap98992.pdf) |
 
